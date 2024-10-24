@@ -10,3 +10,11 @@ section{
     display: flex;
     justify-content: center;
 }
+.chamada-texto{
+    margin-left: 5%;
+}
+header{
+    font-size: 25px;
+    text-align: center;
+    margin: 30px;
+}
